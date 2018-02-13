@@ -159,7 +159,7 @@ h3 {
 }
 
 .field {
-    /* background: url(../images/field.png) repeat; */
+    background: url(../images/field.png) repeat;
     width: 448px;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
